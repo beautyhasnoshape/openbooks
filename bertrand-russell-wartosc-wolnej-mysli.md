@@ -1,4 +1,4 @@
-![bertrand-russell.png](bertrand-russell.png)
+<img src="bertrand-russell.png" width="300">
 
 ### Bertrand Russell
 # WARTOŚĆ WOLNEJ MYŚLI
